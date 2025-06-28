@@ -96,33 +96,29 @@ Menganalisis pola pendapatan harian dari data historis yang tersedia, termasuk v
 ### Tren Penjualan Bulanan
 Grafik ini menunjukkan total pendapatan supermarket per bulan.
 ![Total Monthly Supermarket Revenue](images/monthly_revenue.png)
-**Wawasan:** [Jelaskan wawasan dari grafik ini, contoh: "Penjualan tertinggi terjadi pada bulan Januari, diikuti penurunan di Februari dan sedikit kenaikan kembali di Maret. Ini menunjukkan potensi pola musiman atau dampak dari faktor eksternal."]
+**Wawasan:** Penjualan tertinggi terjadi pada bulan Januari, diikuti penurunan di Februari dan sedikit kenaikan kembali di Maret. Ini menunjukkan potensi pola musiman atau dampak dari faktor eksternal.
 
 ### Kategori Produk Terlaris
 Menampilkan kategori produk dengan kontribusi pendapatan terbesar.
 ![Top 10 Product Categories by Revenue](images/top_product_categories.png)
-**Wawasan:** [Jelaskan wawasan dari grafik ini, contoh: "Fashion accessories dan Food and beverages adalah kategori penyumbang pendapatan terbesar, menunjukkan popularitas produk-produk ini."]
+**Wawasan:** Fashion accessories dan Food and beverages adalah kategori penyumbang pendapatan terbesar, menunjukkan popularitas produk-produk ini.
 
 ### Penjualan Berdasarkan Cabang & Kota
 Visualisasi perbandingan pendapatan antar cabang di berbagai kota.
 ![Total Revenue by City and Branch](images/revenue_by_city_branch.png)
-**Wawasan:** [Jelaskan wawasan dari grafik ini, contoh: "Cabang Giza di Naypyitaw memiliki pendapatan tertinggi, diikuti oleh Alex di Yangon dan Cairo di Mandalay. Ini mengindikasikan potensi kinerja yang berbeda antar lokasi."]
+**Wawasan:** Cabang Giza di Naypyitaw memiliki pendapatan tertinggi, diikuti oleh Alex di Yangon dan Cairo di Mandalay. Ini mengindikasikan potensi kinerja yang berbeda antar lokasi.
 
 ### Jam Puncak Transaksi
 Grafik yang mengidentifikasi jam-jam dengan volume transaksi tertinggi.
 ![Number of Transactions by Hour](images/transactions_by_hour.png)
-**Wawasan:** [Jelaskan wawasan dari grafik ini, contoh: "Supermarket mengalami puncak transaksi pada jam 10 pagi, 1 siang, dan 7 malam, menunjukkan jam sibuk operasional."]
+**Wawasan:** Supermarket mengalami puncak transaksi pada jam 10 pagi, 1 siang, dan 7 malam, menunjukkan jam sibuk operasional.
 
 ### Penjualan Berdasarkan Tipe Pelanggan & Gender
 Analisis pendapatan berdasarkan jenis pelanggan (Member/Normal) dan gender.
 ![Total Revenue by Customer Type and Gender](images/revenue_by_customer_gender.png)
-**Wawasan:** [Jelaskan wawasan dari grafik ini, contoh: "Pelanggan Member secara signifikan menyumbang pendapatan lebih tinggi daripada pelanggan Normal. Di antara Member, pelanggan perempuan memiliki kontribusi yang lebih besar. Ini menyoroti pentingnya program loyalitas."]
+**Wawasan:** Pelanggan Member secara signifikan menyumbang pendapatan lebih tinggi daripada pelanggan Normal. Di antara Member, pelanggan perempuan memiliki kontribusi yang lebih besar. Ini menyoroti pentingnya program loyalitas.
 
 ### Analisis Pendapatan Harian (Historis)
 Visualisasi pendapatan harian dari data historis Anda.
 ![Daily Revenue Historical Trend](images/daily_revenue_historical.png)
-**Wawasan:** [Jelaskan wawasan dari grafik ini, contoh: "Grafik ini menunjukkan fluktuasi pendapatan harian sepanjang periode data, dengan beberapa puncak dan lembah. Pola ini dapat dianalisis lebih lanjut untuk mengidentifikasi hari-hari tertentu dengan performa tinggi atau rendah."]
-*(Anda perlu membuat grafik terpisah untuk pendapatan harian historis jika belum ada, dari `daily_sales` DataFrame PySpark Anda)*
-
-### Aturan Asosiasi (Market Basket)
-Tabel *frequent itemsets* dan *association rules* (jika ditemukan).
+**Wawasan:** Grafik ini menunjukkan fluktuasi pendapatan harian sepanjang periode data, dengan beberapa puncak dan lembah. Pola ini dapat dianalisis lebih lanjut untuk mengidentifikasi hari-hari tertentu dengan performa tinggi atau rendah.

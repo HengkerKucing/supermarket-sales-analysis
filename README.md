@@ -2,7 +2,7 @@
 
 ## Proyek Data Analytics dengan PySpark
 
-![Header Image - Opsional, bisa diganti dengan salah satu visualisasi utama Anda, misalnya tren penjualan bulanan. Anda perlu mengunggah gambar ini ke folder 'images/' dan mengaturnya di sini.](images/monthly_revenue_trend.png)
+![Header Image - Opsional, bisa diganti dengan salah satu visualisasi utama Anda, misalnya tren penjualan bulanan. Anda perlu mengunggah gambar ini ke folder 'images/' dan mengaturnya di sini.](images/daily_revenue_historical.png)
 
 ---
 
